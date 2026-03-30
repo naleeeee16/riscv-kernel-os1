@@ -65,6 +65,7 @@ The kernel runs in RISC-V supervisor mode and provides thread management, synchr
 │   ├── syscall_cpp.cpp
 │   └── _new.cpp        Global operator new/delete
 
+```
 ## Technologies
 
 C++, RISC-V Assembly (RV64G), QEMU virt machine
